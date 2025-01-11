@@ -10,7 +10,6 @@
 # chore:    Changes to the build process or auxiliary tools and libraries such as documentation generation
 #
 # 参考：https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#type
-
 # ==== Emojis ====
 # :bug:         🐛 バグ修正 (fix)
 # :sparkles:    ✨ 部分的な機能追加 (feat)
