@@ -24,3 +24,8 @@
 - バッファプールマネージャ
 - ディスクマネージャ
 (構文解析器、クエリプランナ&実行計画は、実装しない)
+
+
+
+## Reference
+- [WEB+DB PRESS Vol.122](https://gihyo.jp/magazine/wdpress/archive/2021/vol122)
